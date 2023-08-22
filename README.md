@@ -22,12 +22,11 @@ uses the following main files:
 
 ## Libraries Used
 The following packages are required:
-- 
-- 
-- 
-- 
-- 
-- 
+- tidyverse
+- lubridate
+- usmap
+- gridExtra
+- zoo
 
 [Table of Contents](#table-of-contents)
 
