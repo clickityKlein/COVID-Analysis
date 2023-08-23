@@ -1,10 +1,7 @@
 # COVID Analysis: A study in R
-The goal of this project was to...
-
-Along with supporting data and images in their respective folders, the project
-uses the following main files:
-1. **
-2. **
+The goal of this project was to combine multiple sources of data surrounding COVID-19 deaths and cases during
+the pandemic. Accompanying this data is populations by US county and by country during this time period. The data was
+cleaned, manipulated and analyzed to produce desired inquiries.
 
 
 ## Table of Contents
