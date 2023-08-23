@@ -42,9 +42,9 @@ as they are numerous and arbitrary without scope. These are used in the
 Note that additional data is pulled from a github repository which hosts New York Times
 COVID-19 data. This provides county level data of cumulative cases and deaths. This
 is split into 3 years:
-- [2020 Data](#https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties-2020.csv)
-- [2021 Data](#https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties-2021.csv)
-- [2022 Data](#https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties-2022.csv)
+- [2020 Data](https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties-2020.csv)
+- [2021 Data](https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties-2021.csv)
+- [2022 Data](https://raw.githubusercontent.com/nytimes/covid-19-data/master/us-counties-2022.csv)
 
 [Table of Contents](#table-of-contents)
 
@@ -151,7 +151,7 @@ country_daily <- function(df = df_global, country_name) {
 
 ## Acknowledgements
 This project was created initially for a capstone project under the course 
-[Expressway to Data Science: R Programming and Tidyverse Specialization](#https://www.coursera.org/specializations/data-science-r-programming-tidyverse),
+[Expressway to Data Science: R Programming and Tidyverse Specialization](https://www.coursera.org/specializations/data-science-r-programming-tidyverse),
 which was taught by Jane Wall, a professor at CU Boulder at the time of completion.
 
 [Table of Contents](#table-of-contents)
