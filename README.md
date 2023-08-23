@@ -151,39 +151,39 @@ country_daily <- function(df = df_global, country_name) {
 
 
 ## Analysis and Results
-The Rmarkdown files and respective knitted PDF results were created with reproducibility in 
+The Rmarkdown files and respective knitted PDFs were created with reproducibility in 
 mind, thus should be able to be followed as is. However, the following are some main results 
 from this analysis.
 
 **Total number of cases and deaths in the US:**
-![us_cases_deaths](images/p1q2.png)
+![us_cases_deaths](Images/p1q2.png)
 
 **Rolling 7 day averages of cases and deaths in the US:**
-![image](images/p1q2.png)
+![image](Images/p1q2.png)
 
 **Rolling 7 day average of cases and deaths in the California (per 100,000 people):**
-![image](images/p2q3.png)
+![image](Images/p2q3.png)
 
 **California cases and deaths by county (per 100,000 people):**
-![image](images/p2q5.png)
+![image](Images/p2q5.png)
 
 **Rolling 7 day averages across several US states (per 100,000 people) :**
-![image](images/p2q7.png)
+![image](Images/p2q7.png)
 
 **Visual comparison of error between data sources:**
-![image](images/p3q1.png)
+![image](Images/p3q1.png)
 
 **Top 10 countries by cases:**
-![image](images/p3q3a.png)
+![image](Images/p3q3a.png)
 
 **Top 10 countries by deaths:**
-![image](images/p3q3b.png)
+![image](Images/p3q3b.png)
 
 **Daily cases by country (random 4 countries on the same continent):**
-![image](images/p3q4a.png)
+![image](Images/p3q4a.png)
 
 **Daily deaths by country (random 4 countries on the same continent):**
-![image](images/p3q4b.png)
+![image](Images/p3q4b.png)
 
 [Table of Contents](#table-of-contents)
 
@@ -192,5 +192,9 @@ from this analysis.
 This project was created initially for a capstone project under the course 
 [Expressway to Data Science: R Programming and Tidyverse Specialization](https://www.coursera.org/specializations/data-science-r-programming-tidyverse),
 which was taught by Jane Wall, a professor at CU Boulder at the time of completion.
+
+The New York Times (US COVID-19 Data)
+
+CSSE at John Hopkins (Global COVID-19 Data)
 
 [Table of Contents](#table-of-contents)
