@@ -52,6 +52,7 @@ plots. However, some of the data wrangling did present repeatable scenarios.
 Functions:
 
 **by_state(df, state):**
+```
 - df: input, dataframe as follows from the analysis
 - state: input, state name
 - output: new dataframe sorted by state and with the additional columns:
@@ -63,8 +64,11 @@ Functions:
     - new deaths per 100k of the state's population
     - rolling 7 day cases per 100k of the state's population
     - rolling 7 day deaths per 100k of the state's population
+```
+    
     
 **country_daily(df, country_name)**
+```
 - df: input, dataframe as follows from the analysis
 - state: input, country name
 - output: new dataframe sorted by state and with the following columns:
@@ -74,6 +78,7 @@ Functions:
     - new deaths
     - new cases per 100k of the country's population
     - new deaths per 100k of the country's population
+```
 
 [Table of Contents](#table-of-contents)
 
